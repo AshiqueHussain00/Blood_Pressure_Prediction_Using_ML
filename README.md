@@ -31,7 +31,3 @@ variability of intra-person arterial pressure is particularly problematic, espec
 detecting this danger is the next challenge.
 
 
-## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1j88xkGABES_YVucm0avPXDWf-DBKRRXP/view?usp=sharing)
-
