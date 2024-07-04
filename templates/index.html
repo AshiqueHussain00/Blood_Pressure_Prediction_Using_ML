@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/static/style.css">
+    </head>
+    <body>
+        <h1>BLOOD PRESSURE PRIDICTION</h1>
+        <div class="form-1">
+            
+            <form method="post">
+                <div class="user">
+                    <input
+                        type="number"
+                        id=""
+                        name="age"
+                        number
+                        required
+                    >
+                    <label>AGE</label>
+                </div>
+                <div class="user">
+                    <input
+                        type="number"
+                        id=""
+                        name="weight"
+                        number
+                        required
+                    >
+                    <label>
+                        WEIGHT
+                    </label>
+                </div>
+                <button class="button ">SUBMIT</button>
+            </form>
+        
+            {%if msg%}
+            <p>Blood Pressure: {{msg}}</p>
+            {%endif %}
+        </div>
+            <script src="#"></script>
+
+    </body>
+</html>

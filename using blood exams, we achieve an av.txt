@@ -1,0 +1,1 @@
+ using blood exams, we achieve an average accuracy of about 84% in correctly classifying body mass index. Similarly, cascaded SVM-based classifiers achieve a 74% accuracy in correctly classifying systolic blood pressure
